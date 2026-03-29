@@ -1,0 +1,36 @@
+{
+  "name": "DuoDirecte",
+  "version": "1.0.0",
+  "description": "A gamified school management application that synchronizes grades and assignments.",
+  "main": "src/App.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "redux": "^4.1.0",
+    "react-redux": "^7.2.6",
+    "react-navigation": "^4.4.4",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2",
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.2",
+    "@types/react-redux": "^7.1.11"
+  },
+  "keywords": [
+    "school",
+    "management",
+    "gamification",
+    "grades",
+    "assignments"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
